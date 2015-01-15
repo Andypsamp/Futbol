@@ -3,7 +3,7 @@ package boletin15;
 
 /**
  *
- * @author apenasampedro
+ * @author Andy
  *
  * Clase
  */
