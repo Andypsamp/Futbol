@@ -3,7 +3,7 @@ package boletin15;
 
 /**
  *
- * @author apenasampedro
+ * @author Andy
  */
 public class Boletin15 {
 
